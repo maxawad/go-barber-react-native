@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "go_barber_react_native-tvOS.app"
-               BlueprintName = "go_barber_react_native-tvOS"
-               ReferencedContainer = "container:go_barber_react_native.xcodeproj">
+               BuildableName = "dj959barbershop-tvOS.app"
+               BlueprintName = "dj959barbershop-tvOS"
+               ReferencedContainer = "container:dj959barbershop.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "go_barber_react_native-tvOSTests.xctest"
-               BlueprintName = "go_barber_react_native-tvOSTests"
-               ReferencedContainer = "container:go_barber_react_native.xcodeproj">
+               BuildableName = "dj959barbershop-tvOSTests.xctest"
+               BlueprintName = "dj959barbershop-tvOSTests"
+               ReferencedContainer = "container:dj959barbershop.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "go_barber_react_native-tvOSTests.xctest"
-               BlueprintName = "go_barber_react_native-tvOSTests"
-               ReferencedContainer = "container:go_barber_react_native.xcodeproj">
+               BuildableName = "dj959barbershop-tvOSTests.xctest"
+               BlueprintName = "dj959barbershop-tvOSTests"
+               ReferencedContainer = "container:dj959barbershop.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "go_barber_react_native-tvOS.app"
-            BlueprintName = "go_barber_react_native-tvOS"
-            ReferencedContainer = "container:go_barber_react_native.xcodeproj">
+            BuildableName = "dj959barbershop-tvOS.app"
+            BlueprintName = "dj959barbershop-tvOS"
+            ReferencedContainer = "container:dj959barbershop.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "go_barber_react_native-tvOS.app"
-            BlueprintName = "go_barber_react_native-tvOS"
-            ReferencedContainer = "container:go_barber_react_native.xcodeproj">
+            BuildableName = "dj959barbershop-tvOS.app"
+            BlueprintName = "dj959barbershop-tvOS"
+            ReferencedContainer = "container:dj959barbershop.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "go_barber_react_native-tvOS.app"
-            BlueprintName = "go_barber_react_native-tvOS"
-            ReferencedContainer = "container:go_barber_react_native.xcodeproj">
+            BuildableName = "dj959barbershop-tvOS.app"
+            BlueprintName = "dj959barbershop-tvOS"
+            ReferencedContainer = "container:dj959barbershop.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

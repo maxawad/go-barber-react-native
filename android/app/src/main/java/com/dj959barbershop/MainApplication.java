@@ -1,4 +1,4 @@
-package com.go_barber_react_native;
+package com.dj959barbershop;
 
 import android.app.Application;
 import android.content.Context;

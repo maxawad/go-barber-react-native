@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'go_barber_react_native' do
-  # Pods for go_barber_react_native
+target 'dj959barbershop' do
+  # Pods for dj959barbershop
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -36,7 +36,7 @@ target 'go_barber_react_native' do
   pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
-  target 'go_barber_react_nativeTests' do
+  target 'dj959barbershopTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -44,10 +44,10 @@ target 'go_barber_react_native' do
   use_native_modules!
 end
 
-target 'go_barber_react_native-tvOS' do
-  # Pods for go_barber_react_native-tvOS
+target 'dj959barbershop-tvOS' do
+  # Pods for dj959barbershop-tvOS
 
-  target 'go_barber_react_native-tvOSTests' do
+  target 'dj959barbershop-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end
