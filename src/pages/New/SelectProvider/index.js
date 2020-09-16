@@ -9,6 +9,7 @@ import Background from '../../../components/Background';
 import { Container, ProvidersList, Provider, Avatar, Name } from './styles';
 
 export default function SelectProvider({ navigation }) {
+  // TODO: Remove hardcoded barber
   const [providers, setProviders] = useState([
     { id: 1, name: 'Daniel', avatar: null },
   ]);
